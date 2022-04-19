@@ -1,7 +1,10 @@
-### Hi there I an David hi👋
+### Hi there I am David 👋
 ![](https://komarev.com/ghpvc/?username=dtap001&style=for-the-badge)
 
-### Current job
+## whoami
+My job is my hobby my hobby is my job. I am very passionate developer who loves working with the latest technologies and solve complex problemes which makes the world a better place. 
+
+### Current position @ CAE
 #### Full Stack Software Engineer 🐱‍👤 
 🛠Building a complex web based solution for teaching and grading medical students as a member of an amazing architect team.
 
