@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there I an David hi👋
+![](https://komarev.com/ghpvc/?username=dtap001&style=for-the-badge)
 
-<!--
-**dtap001/dtap001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current job
+#### Full Stack Software Engineer 🐱‍👤 
+🛠Building a complex web based solution for teaching and grading medical students as a member of an amazing architect team.
 
-Here are some ideas to get you started:
+Tasks ✅
+ - design system components
+ - implement system components
+ - refactor legacy code
+ - integrate system components
+ - implement new features
+ - mentor the team
+ - code review
+ - bug fix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nails 🔩
+ - typescript
+ - c#
+ - javascript
+ - perl
+ - python
+ - bash
+ - sql
+
+Hammers 🔨
+ - angular
+ - .net
+ - nodejs
+ - nestjs
+
+Machinery ⚙
+ - mysql
+ - azure pipelines for deployment and infrastructure description
+ - kubernetes
+ - docker
+ - git / svn
