@@ -2,7 +2,15 @@
 ![](https://komarev.com/ghpvc/?username=dtap001&style=for-the-badge)
 
 ## whoami
-My job is my hobby my hobby is my job. I am very passionate developer who loves working with the latest technologies and solve complex problemes which makes the world a better place. 
+My passion is coding. 👨‍💻I love to solve challenges and design systems which are easy to change and maintain.
+
+#favs🤩
+-c#
+-typescript
+-.net
+-angular
+
+When I am not coding I am with my family, friends or at the gym. 
 
 ### Current position @ CAE
 #### Full Stack Software Engineer 🐱‍👤 
