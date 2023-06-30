@@ -5,15 +5,16 @@
 My passion is coding. 👨‍💻I love to solve challenges and design systems which are easy to change and maintain.
 
 #favs🤩
--c#
+-nestjs
+-angular
 -typescript
 -.net
--angular
+-c#
 
 When I am not coding I am with my family, friends or at the gym. 
 
 ### Current position @ CAE
-#### Full Stack Software Engineer 🐱‍👤 
+#### Technical Leader  🐱‍👤 
 🛠Building a complex web based solution for teaching and grading medical students as a member of an amazing architect team.
 
 Tasks ✅
