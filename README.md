@@ -13,7 +13,7 @@ My passion is coding. 👨‍💻I love to solve challenges and design systems w
 
 When I am not coding I am with my family, friends or at the gym. 
 
-### Current position @ CAE
+### Current position @ Elevate Healthcare
 #### Technical Leader  🐱‍👤 
 🛠Building a complex web based solution for teaching and grading medical students as a member of an amazing architect team.
 
@@ -35,6 +35,7 @@ Nails 🔩
  - python
  - bash
  - sql
+ - bash
 
 Hammers 🔨
  - angular
@@ -43,6 +44,8 @@ Hammers 🔨
  - nestjs
 
 Machinery ⚙
+ - linux
+ - ansible
  - mysql
  - azure pipelines for deployment and infrastructure description
  - kubernetes
